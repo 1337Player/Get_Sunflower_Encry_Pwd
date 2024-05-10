@@ -1,2 +1,2 @@
 # Get_Sunflower_Encry_Pwd
-小工具帮助在实战中快速获得向日葵便携版/安装版的encry_pwd和fastcode值，方便后续解密
+一款小工具，帮助在实战中快速获得向日葵便携版/安装版的encry_pwd和fastcode值，方便后续解密
